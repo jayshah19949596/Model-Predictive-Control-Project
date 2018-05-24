@@ -115,7 +115,7 @@ The final implementation consisted of following "major steps:
   - To achieve an implementation close to real world scenario, a latency of 100ms was introduced in the simulator. 
   - This delay caused control actuations to reach the car in later of time 
   - To take into account the effect of this latency, actuation commands from previous timestep is used which solved the problem
-  - The previous actuation commands is only used if the delay is introduced
+
 
 # Project Output
 ----
