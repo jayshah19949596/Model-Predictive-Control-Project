@@ -12,9 +12,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7fba3ab-ad90-4d69-a268-fafc600cbcba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MPC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/MPC.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/Dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/INSTALL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/Makefile.am" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/Makefile.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/INSTALL.ASL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/Makefile.am" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/Makefile.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/coinasl-uninstalled.pc.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/coinasl.pc.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/compile_MS_ASL.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/compile_Unix_ASL.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/config.guess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/config.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/config.status" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/config.sub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/configure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/configure.ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/depcomp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/get.ASL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/install-sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/libcoinasl.la" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/ltmain.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/mingw.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ThirdParty/ASL/missing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/coin_subdirs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/config.guess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/config.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/config.status" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/config.sub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/configure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/configure.ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/depcomp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/doxydoc/doxygen.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/doxydoc/doxygen.conf.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/install-sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/libtool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/ltmain.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipopt-3.12.7/missing" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +81,8 @@
           <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="217">
-                  <caret line="180" column="30" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="30" />
+                <state relative-caret-position="199">
+                  <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
                   <folding>
                     <element signature="e#0#17#0" expanded="true" />
                   </folding>
@@ -78,8 +118,8 @@
           <file leaf-file-name="MPC.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/MPC.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="142">
-                  <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+                <state relative-caret-position="702">
+                  <caret line="273" column="13" selection-start-line="273" selection-start-column="7" selection-end-line="273" selection-end-column="13" />
                   <folding>
                     <element signature="e#0#16#0" expanded="true" />
                   </folding>
@@ -119,8 +159,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="992" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="928" />
     <option name="height" value="1176" />
@@ -187,22 +227,23 @@
       <updated>1526089922586</updated>
       <workItem from="1526089925019" duration="2401000" />
       <workItem from="1526714264342" duration="4436000" />
-      <workItem from="1527131642238" duration="6323000" />
+      <workItem from="1527131642238" duration="7333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13160000" />
+    <option name="totallyTimeSpent" value="14170000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
+    <frame x="65" y="24" width="928" height="1176" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07439353" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1487069" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32846716" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937956" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.338015" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -306,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="180" column="30" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="30" />
+        <state relative-caret-position="199">
+          <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
@@ -316,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MPC.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="702">
+          <caret line="273" column="13" selection-start-line="273" selection-start-column="7" selection-end-line="273" selection-end-column="13" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
