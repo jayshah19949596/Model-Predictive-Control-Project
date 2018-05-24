@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fba3ab-ad90-4d69-a268-fafc600cbcba" name="Default" comment="" />
+    <list default="true" id="b7fba3ab-ad90-4d69-a268-fafc600cbcba" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MPC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/MPC.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +41,8 @@
           <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-97">
-                  <caret line="102" column="41" lean-forward="true" selection-start-line="102" selection-start-column="41" selection-end-line="102" selection-end-column="41" />
+                <state relative-caret-position="217">
+                  <caret line="180" column="30" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="30" />
                   <folding>
                     <element signature="e#0#17#0" expanded="true" />
                   </folding>
@@ -59,7 +63,7 @@
             <entry file="file://$PROJECT_DIR$/src/MPC.cpp">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="4050">
-                  <caret line="287" column="1" selection-start-line="287" selection-start-column="1" selection-end-line="287" selection-end-column="1" />
+                  <caret line="285" column="1" selection-start-line="285" selection-start-column="1" selection-end-line="285" selection-end-column="1" />
                   <folding>
                     <element signature="e#0#16#0" expanded="true" />
                   </folding>
@@ -74,8 +78,8 @@
           <file leaf-file-name="MPC.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/MPC.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="267">
-                  <caret line="242" column="24" lean-forward="true" selection-start-line="242" selection-start-column="24" selection-end-line="242" selection-end-column="24" />
+                <state relative-caret-position="142">
+                  <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
                   <folding>
                     <element signature="e#0#16#0" expanded="true" />
                   </folding>
@@ -92,13 +96,17 @@
       <find>cout</find>
       <find>ptsy_transform</find>
       <find>no l</find>
+      <find>latency</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MPC.cpp" />
         <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/src/MPC.cpp" />
       </list>
     </option>
   </component>
@@ -112,11 +120,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="75" />
+    <option name="x" value="992" />
     <option name="y" value="24" />
     <option name="width" value="928" />
     <option name="height" value="1176" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,24 +187,23 @@
       <updated>1526089922586</updated>
       <workItem from="1526089925019" duration="2401000" />
       <workItem from="1526714264342" duration="4436000" />
-      <workItem from="1527131642238" duration="3216000" />
+      <workItem from="1527131642238" duration="6323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10053000" />
+    <option name="totallyTimeSpent" value="13160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07439353" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287796" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32846716" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969034" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937956" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -296,22 +304,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MPC.cpp">
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="287" column="1" selection-start-line="287" selection-start-column="1" selection-end-line="287" selection-end-column="1" />
+        <state relative-caret-position="217">
+          <caret line="180" column="30" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="30" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+    <entry file="file://$PROJECT_DIR$/src/MPC.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="102" column="41" lean-forward="true" selection-start-line="102" selection-start-column="41" selection-end-line="102" selection-end-column="41" />
+        <state relative-caret-position="142">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
