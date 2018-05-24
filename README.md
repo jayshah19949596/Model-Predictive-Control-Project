@@ -86,7 +86,9 @@ The final implementation consisted of following "major steps:
      
   - The state update equations are then given by:
     
-![Kinematic State update equations](./img_resources/state _update_eqn.png)
+[image1]: ./img_resources/state_update_eqn.png "Kinematic State update equations"
+![Kinematic State update equations][image1]
+
 
 ### 5. Definition of time step length (N) and duration between time steps (dt):
   
@@ -114,7 +116,6 @@ The final implementation consisted of following "major steps:
   - This delay caused control actuations to reach the car in later of time 
   - To take into account the effect of this latency, actuation commands from previous timestep is used which solved the problem
   - The previous actuation commands is only used if the delay is introduced
-
 
 # Project Output
 ----
