@@ -100,7 +100,7 @@ The final implementation consisted of following "major steps:
 
 ### 6. Definition of cost function for MPC:
   
-  - The last step in the implementation is to define the cost function for MPC. MPC solver, implemented using [Ipopt]((https://projects.coin-or.org/Ipopt) and [Cppad]((https://www.coin-or.org/CppAD/) library generated actuator values while arriving at the minimal value of cost function
+  - The last step in the implementation is to define the cost function for MPC. MPC solver, implemented using [Ipopt](https://projects.coin-or.org/Ipopt) and [Cppad](https://www.coin-or.org/CppAD/) library generated actuator values while arriving at the minimal value of cost function
   - Key elements and features of the cost function are given below:
     
     1. Highest weight for calculated CTE and EPSI. This was to ensure the car stays in the middle of lane and head in desired direction
